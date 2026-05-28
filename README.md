@@ -32,8 +32,7 @@ I am currently developing my skills in microcontroller programming, electronic s
 ![ESP32](https://img.shields.io/badge/ESP32-Embedded_System-black)
 ![STM32](https://img.shields.io/badge/STM32-Microcontroller-03234B)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Single_Board_Computer-C51A4A)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
-![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717)
+
 
 ---
 
