@@ -65,5 +65,5 @@ To continue developing technical competence in electronics engineering, embedded
 
 ## Contact
 
-- GitHub: [@ariefef098](https://github.com/ariefef098)
+- GitHub: [@Arif-Efendi](https://github.com/Arif-Efendi)
 - LinkedIn: [Arif Efendi](https://www.linkedin.com/in/arif-efendi-845971355)
