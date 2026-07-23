@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Arif+Efendi+👋;D4+Electronics+Engineering;Robotics+%7C+IoT+%7C+Embedded+Systems" alt="Typing SVG" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi,+Saya+Arif+Efendi+👋;D4+Teknik+Elektronika;Robotics+|+IoT+|+Embedded+Systems)](https://git.io/typing-svg)
+
 </div>
 
 <p align="center">
@@ -50,7 +52,9 @@ Saya rutin mendokumentasikan proyek, mengelola kode sumber, dan membangun portof
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arif-Efendi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9" alt="Arif's GitHub Stats" />
+
+[![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arif-Efendi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
