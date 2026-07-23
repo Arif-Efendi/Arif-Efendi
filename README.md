@@ -1,68 +1,67 @@
-# Arif Efendi
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Arif+Efendi+👋;D4+Electronics+Engineering;Robotics+%7C+IoT+%7C+Embedded+Systems" alt="Typing SVG" />
+</div>
 
-**Electronics Engineering Student | Embedded Systems | Robotics | IoT**
-
----
-
-## About Me
-
-I am an Electronics Engineering student at Universitas Negeri Yogyakarta with a strong interest in embedded systems, robotics, Internet of Things (IoT), and automation technology.
-
-I am currently developing my skills in microcontroller programming, electronic system design, sensor integration, and robotic control systems. I use GitHub to document my projects, manage source code, and build a professional engineering portfolio.
+<p align="center">
+  <em>Mengembangkan sistem otomasi dengan mikrokontroler, merancang arsitektur IoT, dan merakit sistem kendali robotika.</em>
+</p>
 
 ---
 
-## Technical Interests
+### 👨‍💻 Tentang Saya
 
-- Embedded Systems
-- Robotics and Automation
-- Internet of Things (IoT)
-- Microcontroller-Based Systems
-- Sensor and Actuator Integration
-- Computer Vision Applications
+Mahasiswa D4 Teknik Elektronika di Universitas Negeri Yogyakarta. Saya memiliki minat yang mendalam dalam mengeksplorasi teknologi *embedded systems*, robotika (kinematika & odometri), *Internet of Things* (IoT), dan *computer vision*.
+
+Saya rutin mendokumentasikan proyek, mengelola kode sumber, dan membangun portofolio *engineering* yang berfokus pada solusi praktis menggunakan mikrokontroler serta lingkungan pengembangan berbasis Linux seperti ROS2 di Ubuntu.
 
 ---
 
-## Technical Skills
+### 🛠️ Tech Stack & Tools
 
-![C](https://img.shields.io/badge/C-Programming-blue)
-![C++](https://img.shields.io/badge/C++-Programming-blue)
-![Python](https://img.shields.io/badge/Python-Programming-yellow)
-![Arduino](https://img.shields.io/badge/Arduino-Microcontroller-00979D)
-![ESP32](https://img.shields.io/badge/ESP32-Embedded_System-black)
-![STM32](https://img.shields.io/badge/STM32-Microcontroller-03234B)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Single_Board_Computer-C51A4A)
+<div align="left">
+  
+**Microcontrollers & Development Boards** <br>
+![ESP32](https://img.shields.io/badge/ESP32-00FFFF?style=for-the-badge&logo=espressif&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00FFFF?style=for-the-badge&logo=arduino&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-00FFFF?style=for-the-badge&logo=stmicroelectronics&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-00FFFF?style=for-the-badge&logo=raspberrypi&logoColor=black)
 
+**Programming Languages & Environments** <br>
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=00FFFF)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FFFF)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_WSL-111111?style=for-the-badge&logo=ubuntu&logoColor=00FFFF)
+![ROS2](https://img.shields.io/badge/ROS2_Humble-111111?style=for-the-badge&logo=ros&logoColor=00FFFF)
 
----
-
-## Current Learning Focus
-
-- Embedded system programming using Arduino, ESP32, and STM32
-- Robotic control systems and kinematics
-- IoT-based monitoring and automation systems
-- Sensor data processing and communication protocols
-- Computer vision integration for robotics applications
+</div>
 
 ---
 
-## Project Areas
+### 🚀 Featured Projects
 
-- ESP32-based robotic systems
-- IoT monitoring systems
-- Raspberry Pi robot arm control
-- Automation systems using sensors and actuators
-- Microcontroller-based control systems
-
----
-
-## Career Objective
-
-To continue developing technical competence in electronics engineering, embedded systems, and robotics, while contributing to innovative engineering solutions through practical projects and continuous learning.
+*   **Robot Forklift Keypad:** Mengimplementasikan odometri dan *inverse kinematics* untuk pergerakan otomatis berbasis koordinat.
+*   **Self Balancing Robot:** Sistem kendali robot roda dua yang dirancang untuk mempertahankan titik keseimbangan.
+*   **IoT Gas Leakage Detection:** Sistem pendeteksi kebocoran gas terintegrasi untuk keamanan lingkungan.
+*   **Hand Gesture Detection:** Pemanfaatan *Computer Vision* (Python) yang dikomunikasikan dengan Arduino untuk mendeteksi pola gerakan tangan.
+*   **ESP32 Web Server Monitoring:** Sistem pemantauan suhu dan sensor jarak presisi yang dapat diakses secara *real-time* melalui antarmuka web.
 
 ---
 
-## Contact
+### 📊 GitHub Stats
 
-- GitHub: [@Arif-Efendi](https://github.com/Arif-Efendi)
-- LinkedIn: [Arif Efendi](https://www.linkedin.com/in/arif-efendi-845971355)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arif-Efendi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9" alt="Arif's GitHub Stats" />
+</div>
+
+---
+
+### 📫 Hubungi Saya
+
+<div align="center">
+  <a href="https://github.com/Arif-Efendi">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/arif_efenddi?igsh=MTduZmxxaDZ1MnZ4MA==">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=00FFFF" alt="Instagram" />
+  </a>
+</div>
