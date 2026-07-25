@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFFF&height=200&section=header&text=Arif%20Efendi&fontSize=60&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20IoT%20Developer%20|%20Embedded%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFFF&height=200&section=header&text=Arif%20Efendi&fontSize=60&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20|%20IoT%20Developer%20|%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi%2C+Saya+Arif+Efendi+%F0%9F%91%8B;D4+Teknik+Elektronika+-+UNY;Robotics+%7C+IoT+%7C+Embedded+Systems;Selalu+Belajar+Hal+Baru+Setiap+Hari+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -52,14 +52,18 @@ Saya senang mengeksplorasi teknologi *embedded systems*, robotika, IoT, dan *com
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FFFF)
 ![MicroPython](https://img.shields.io/badge/MicroPython-111111?style=for-the-badge&logo=micropython&logoColor=00FFFF)
 
-**Tools, OS & Frameworks**
+**Tools, IDE & Frameworks**
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_WSL-111111?style=for-the-badge&logo=ubuntu&logoColor=00FFFF)
 ![ROS2](https://img.shields.io/badge/ROS2_Humble-111111?style=for-the-badge&logo=ros&logoColor=00FFFF)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00FFFF)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=00FFFF)
-![Fusion360](https://img.shields.io/badge/Fusion%20360-111111?style=for-the-badge&logo=autodesk&logoColor=00FFFF)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-111111?style=for-the-badge&logo=arduino&logoColor=00FFFF)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-111111?style=for-the-badge&logo=stmicroelectronics&logoColor=00FFFF)
+![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=00FFFF)
+![Proteus](https://img.shields.io/badge/Proteus-111111?style=for-the-badge&logoColor=00FFFF)
+![CX--Programmer](https://img.shields.io/badge/CX--Programmer-111111?style=for-the-badge&logoColor=00FFFF)
 
 </div>
 
