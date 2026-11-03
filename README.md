@@ -17,8 +17,11 @@ nama: "Arif Efendi"
 role: "Mahasiswa D4 Teknik Elektronika"
 kampus: "Universitas Negeri Yogyakarta"
 fokus:
+  - Automation
+  - Instrumentasi dan sistem kendali kontrol
   - Embedded Systems
-  - Robotika (Kinematika & Odometri)
+  - Robotika
+  - Machine Learning
   - Internet of Things (IoT)
   - Computer Vision
 status: "Sedang membangun portofolio engineering berbasis solusi praktis 🔧"
